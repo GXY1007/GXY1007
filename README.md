@@ -20,11 +20,11 @@ Here are some ideas to get you started:
   - 软件工程学士 @ 国内211大学
   - Artificial Intelligence and Machine Learning 硕士 @ QS前100海外院校  
 - **求职目标**  
-  - 机器学习工程师 / NLP工程师 / MLOps工程师  
+  - 机器学习工程师 / NLP工程师 
 
 ## 🛠 技术栈  
-![Python](https://img.shields.io/badge/Python-Expert-3776AB?logo=python)
-![PyTorch](https://img.shields.io/badge/PyTorch-Advanced-EE4C2C?logo=pytorch)
+![Python](https://img.shields.io/badge/Python-Intermediate-3776AB?logo=python)
+![PyTorch](https://img.shields.io/badge/PyTorch-Learning-EE4C2C?logo=pytorch)
 
 ## 📫 联系我  
 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:xinyuan202204@163.com)  
