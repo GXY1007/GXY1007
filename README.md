@@ -23,8 +23,8 @@ Here are some ideas to get you started:
   - 机器学习工程师 / NLP工程师 
 
 ## 🛠 技术栈  
-![Python](https://img.shields.io/badge/Python-Intermediate-3776AB?logo=python)
-![PyTorch](https://img.shields.io/badge/PyTorch-Learning-EE4C2C?logo=pytorch)
+![Python](https://img.shields.io/badge/Python-Intermediate-2496ED?logo=python)
+![PyTorch](https://img.shields.io/badge/PyTorch-Learning-326CE5?logo=pytorch)
 
 ## 📫 联系我  
 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:xinyuan202204@163.com)  
